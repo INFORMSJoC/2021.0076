@@ -4,6 +4,15 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
+## Description
+The security of credit card fraud detection (CCFD) models based on machine learning is important but rarely considered in the existing research. To this end, we propose a black-box attack-based security evaluation framework for CCFD models. Under this framework, the semi-supervised learning technique and transfer-based black-box attack are combined to construct two versions of semi-supervised transfer black-box attack (STBA) algorithm. Moreover, we introduce a new nonlinear optimization model to generate the adversarial examples against CCFD models and a security evaluation index to quantitatively evaluate the security of them. 
+
+This project contains four folders: `data`, `results`, `scr`, `scripts`. 
+- `data`：include two datasets used in the paper and a toy dataset for debugging
+- `results`: include the experimental results
+- `scr`: include the source code 
+- `scripts`: evaluate the security of machine learning models based on substitute models LR and SVM
+
 ## Setup
 ### Install dependencies
 To run the code, you will need to make sure that you have already installed Anaconda3.  
@@ -20,14 +29,7 @@ Download Vesta credit dataset from https://www.kaggle.com/competitions/ieee-frau
 A toy dataset is also provided for quick start.
 
 
-## Description
-The security of credit card fraud detection (CCFD) models based on machine learning is important but rarely considered in the existing research. To this end, we propose a black-box attack-based security evaluation framework for CCFD models. Under this framework, the semi-supervised learning technique and transfer-based black-box attack are combined to construct two versions of semi-supervised transfer black-box attack (STBA) algorithm. Moreover, we introduce a new nonlinear optimization model to generate the adversarial examples against CCFD models and a security evaluation index to quantitatively evaluate the security of them. 
 
-This project contains four folders: `data`, `results`, `scr`, `scripts`. 
-- `data`：include two datasets used in the paper and a toy dataset for debugging
-- `results`: include the experimental results
-- `scr`: include the source code 
-- `scripts`: evaluate the security of machine learning models based on substitute models LR and SVM
 
 
 ## Replicating

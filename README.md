@@ -15,18 +15,18 @@ This project contains four folders: `data`, `results`, `scr`, `scripts`.
 
 ## Setup
 ### Install dependencies
-To run the code, you will need to make sure that you have already installed Anaconda3.  
-You also need to install the packages in requirements.txt.
+- To run the code, you will need to make sure that you have already installed Anaconda3.  
+- You also need to install the packages in requirements.txt.
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Preparing the datasets
-The cleaning process of the Lending club credit dataset is described in subsection 3.1 of the paper, and the cleaned dataset can be obtained by extracting the zip file in the data folder.  
+- The cleaning process of the Lending club credit dataset is described in subsection 3.1 of the paper, and the cleaned dataset can be obtained by extracting the zip file in the data folder.  
 
-Download Vesta credit dataset from https://www.kaggle.com/competitions/ieee-fraud-detection/data, and run feature_engineering.py to perform feature engineering.  
+- Download Vesta credit dataset from https://www.kaggle.com/competitions/ieee-fraud-detection/data, and run feature_engineering.py to perform feature engineering.  
 
-A toy dataset is also provided for quick start.
+- A toy dataset is also provided for quick start.
 
 
 

@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
 
 ## Replicating
-First, put the processed dataset into src folder;  
+First, put the processed dataset into `src` folder;  
 
-Second, run main.py to get the accuracy of the target models under different attack strengths and save it. We provide a variety of semi-supervised methods that can be used directly, including self-training, Co-Forest, semi-supervised GAN. The FlexMatch implementation uses the project https://github.com/TorchSSL/TorchSSL.  
+Second, run `main.py` to get the accuracy of the target models under different attack strengths and save it. We provide a variety of semi-supervised methods that can be used directly, including self-training, Co-Forest, semi-supervised GAN. The FlexMatch implementation uses the project https://github.com/TorchSSL/TorchSSL.  
 
-Finally, run calculateSEI.py to calculate the SEI index.
+Finally, run `calculateSEI.py` to calculate the SEI index.

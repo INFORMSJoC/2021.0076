@@ -11,7 +11,7 @@ This project contains four folders: `data`, `results`, `scr`, `scripts`.
 - `data`：include two datasets used in the paper and a toy dataset for debugging
 - `results`: include the experimental results
 - `scr`: include the source code 
-- `scripts`: evaluate the security of machine learning models based on substitute models LR and SVM
+- `scripts`: include two scripts for evaluating the security of machine learning models based on substitute models LR and SVM
 
 ## Setup
 ### Install dependencies

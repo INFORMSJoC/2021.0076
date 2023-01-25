@@ -7,10 +7,10 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 ## Description
 The security of credit card fraud detection (CCFD) models based on machine learning is important but rarely considered in the existing research. To this end, we propose a black-box attack-based security evaluation framework for CCFD models. Under this framework, the semi-supervised learning technique and transfer-based black-box attack are combined to construct two versions of semi-supervised transfer black-box attack (STBA) algorithm. Moreover, we introduce a new nonlinear optimization model to generate the adversarial examples against CCFD models and a security evaluation index to quantitatively evaluate the security of them. 
 
-This project contains four folders: `data`, `results`, `scr`, `scripts`. 
+This project contains four folders: `data`, `results`, `src`, `scripts`. 
 - `data`：include two datasets used in the paper and a toy dataset for debugging.
 - `results`: include the experimental results.  
-- `scr`: include the source code. 
+- `src`: include the source code. 
 - `scripts`: include two scripts for evaluating the security of machine learning models based on substitute models LR and SVM.  
 
 ## Setup

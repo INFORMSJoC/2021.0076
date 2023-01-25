@@ -6,7 +6,8 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 ## Setup
 ### Install dependencies
-Need to install packages that are not available in Anaconda3 
+To run the code, you will need to make sure that you have already installed Anaconda3.  
+You also need to install the packages in requirements.txt
 ```bash
 pip install -r requirements.txt
 ```

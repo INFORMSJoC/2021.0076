@@ -16,7 +16,7 @@ This project contains four folders: `data`, `results`, `scr`, `scripts`.
 ## Setup
 ### Install dependencies
 - To run the code, you will need to make sure that you have already installed Anaconda3.  
-- You also need to install the packages in requirements.txt.
+- You also need to install the packages listed in requirements.txt.
 ```bash
 pip install -r requirements.txt
 ```

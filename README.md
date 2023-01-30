@@ -13,13 +13,13 @@ To cite this software, please cite the software itself, using the following DOI.
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{iDS2022,
-  author =        {J. Xiao, Y. Tian, Y. Jia, X. Jiang, L. Yu, and S. Wang},
+@article{Xiao2023Black,
+  author =        {J. Xiao, Y.H. Tian, Y.L. Jia, X.Y. Jiang, L.A. Yu, and S.Y. Wang},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{mmrbipy} Version v2021.0076},
-  year =          {2022},
+  title =         {Black-box attack-based security evaluation framework for credit card fraud detection models, v2021.0076},
+  year =          {2023},
   doi =           {10.5281/zenodo.8475},
-  url =           {https://github.com/INFORMSJoC/2021.0076},
+  note =           {https://github.com/INFORMSJoC/2021.0076},
 }  
 ```
 

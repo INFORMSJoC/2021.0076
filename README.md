@@ -12,7 +12,7 @@ This project contains four folders: `data`, `results`, `src`, `scripts`.
 - `results`: include the experimental results.  
 - `src`: include the source code. 
 - `scripts`: include two scripts for evaluating the security of machine learning models based on substitute models LR and SVM.  
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)]
 ## Setup
 ### Install dependencies
 - To run the code, you will need to make sure that you have already installed Anaconda3.  

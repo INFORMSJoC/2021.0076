@@ -4,6 +4,26 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
+## Cite
+
+To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{Xiao2023Black,
+  author =        {J. Xiao, Y.H. Tian, Y.L. Jia, X.Y. Jiang, L.A. Yu, and S.Y. Wang},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Black-box attack-based security evaluation framework for credit card fraud detection models, v2021.0076},
+  year =          {2023},
+  doi =           {10.5281/zenodo.8475},
+  note =          {https://github.com/INFORMSJoC/2021.0076},
+}  
+```
+
+
 ## Description
 The security of credit card fraud detection (CCFD) models based on machine learning is important but rarely considered in the existing research. To this end, we propose a black-box attack-based security evaluation framework for CCFD models. Under this framework, the semi-supervised learning technique and transfer-based black-box attack are combined to construct two versions of semi-supervised transfer black-box attack (STBA) algorithm. Moreover, we introduce a new nonlinear optimization model to generate the adversarial examples against CCFD models and a security evaluation index to quantitatively evaluate the security of them. 
 
@@ -12,7 +32,7 @@ This project contains four folders: `data`, `results`, `src`, `scripts`.
 - `results`: include the experimental results.  
 - `src`: include the source code. 
 - `scripts`: include two scripts for evaluating the security of machine learning models based on substitute models LR and SVM.  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)]
+
 ## Setup
 ### Install dependencies
 - To run the code, you will need to make sure that you have already installed Anaconda3.  

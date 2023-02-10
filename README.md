@@ -8,7 +8,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7344404.svg)](https://doi.org/10.5281/zenodo.7344404)
 Below is the BibTex for citing this version of the code.
 
 ```
@@ -17,7 +17,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Black-box attack-based security evaluation framework for credit card fraud detection models, v2021.0076},
   year =          {2023},
-  doi =           {10.5281/zenodo.8475},
+  doi =           {10.5281/zenodo.734404},
   url =           {https://github.com/INFORMSJoC/2021.0076},
 }  
 ```
